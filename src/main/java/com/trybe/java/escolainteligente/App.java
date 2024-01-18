@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class App {
 
   /**
-   * Método principal.
+   * Método principal...
    */
   public static void main(String[] args) {
     System.out.println("Boas vindas a Escola Inteligente!");
