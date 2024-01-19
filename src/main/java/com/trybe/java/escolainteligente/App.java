@@ -2,10 +2,15 @@ package com.trybe.java.escolainteligente;
 
 import java.util.Scanner;
 
+/**
+ * The type App.
+ */
 public class App {
-
+  
   /**
-   * Método principal...
+   * The entry point of application.
+   *
+   * @param args the input arguments
    */
   public static void main(String[] args) {
     System.out.println("Boas vindas a Escola Inteligente!");

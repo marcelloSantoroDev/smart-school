@@ -58,5 +58,7 @@ public class Portaria {
 
     emitirRelatorio(fund, fund2, med);
 
+    scanner.close();
+
   }
 }
